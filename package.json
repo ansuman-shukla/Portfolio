@@ -1,7 +1,7 @@
 {
   "name": "Portfolio",
   "version": "0.1.0",
-  "homepage": "https://ansuman-shukla.github.io/Portfolio",
+  "homepage": "https://ansuman-shukla.github.io/Portfolio/",
   "private": true,
   "dependencies": {
     "@lottiefiles/react-lottie-player": "^3.4.7",
